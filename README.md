@@ -2,9 +2,11 @@
 
 ## 📖 Giới thiệu
 
-PRX Shop là cửa hàng bán lẻ chính thức của đội Paper Rex, một phần của mạng lưới sản phẩm IMPLS Entertainment. Đây là một ứng dụng e-commerce full-stack cho phép người dùng mua sắm các sản phẩm độc quyền của đội Paper Rex bao gồm áo đấu, áo thun, hoodie, phụ kiện và các bộ sưu tập đặc biệt.
+PRX Shop là cửa hàng bán lẻ chính thức của đội Paper Rex, một phần của mạng lưới sản phẩm IMPLS Entertainment. Đây là một ứng dụng e-commerce full-stack dựa trên PRX shop để các chức năng cơ bản của một website e-commerce.
 
 **Website tham khảo:** [https://shop.pprx.team/](https://shop.pprx.team/)
+
+**Note**: Đây là dự án clone/inspiration dựa trên Paper Rex Shop, không được sử dụng với mục đích kinh tế. Để mua sản phẩm chính thức, vui lòng truy cập [shop.pprx.team](https://shop.pprx.team/)
 
 ## ✨ Tính năng chính
 
@@ -188,28 +190,3 @@ Dựa trên website chính thức, các sản phẩm bao gồm:
 - **PRX Seoul Mission Collection** - Bộ sưu tập đặc biệt
 - **PRX Basics** - Dòng sản phẩm cơ bản
 - **PRX Accessories** - Phụ kiện (lanyard, sticker pack, card holder, plushie)
-
-## 🌍 Hỗ trợ đa quốc gia
-
-Website hỗ trợ nhiều quốc gia và tiền tệ, bao gồm:
-- Singapore (SGD)
-- United States (USD)
-- United Kingdom (GBP)
-- Và nhiều quốc gia khác...
-
-## 🤝 Đóng góp
-
-Dự án này đang trong giai đoạn phát triển. Mọi đóng góp đều được chào đón!
-
-## 📄 License
-
-*(Cần cập nhật license phù hợp)*
-
-## 📧 Liên hệ
-
-- **Website chính thức**: [https://shop.pprx.team/](https://shop.pprx.team/)
-- **About Us**: Paper Rex Shop là cửa hàng merch chính thức của đội Paper Rex
-
----
-
-**Note**: Đây là dự án clone/inspiration của Paper Rex Shop. Để mua sản phẩm chính thức, vui lòng truy cập [shop.pprx.team](https://shop.pprx.team/)
