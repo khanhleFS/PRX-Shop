@@ -2,7 +2,7 @@
 
 ## 📖 Giới thiệu
 
-Valorant Shop là một ứng dụng e-commerce full-stack dựa trên PRX shop để các chức năng cơ bản của một website e-commerce.
+Valorant Shop là một ứng dụng e-commerce full-stack dựa trên PRX shop để mô tả các chức năng cơ bản của một website e-commerce.
 
 **Website tham khảo:** [https://shop.pprx.team/](https://shop.pprx.team/)
 
@@ -12,17 +12,10 @@ Valorant Shop là một ứng dụng e-commerce full-stack dựa trên PRX shop 
 
 ### Sản phẩm
 - **Team Kit**: Áo đấu chính thức của các đội thi đấu ở giải đấu chính thức của Valorant(DinoMarine, Raptor, v.v.)
-- **Collections**: 
-  - PRX Seoul Mission 2025
-  - PRX Basics
-  - PRX Accessories
-- **Collaborations**: Hợp tác với các thương hiệu như EDG, Pulsar, EPT, Secretlab
-- **Danh mục sản phẩm**: T-Shirts, Hoodies & Sweatshirts, Jackets, Gift Ideas
 
 ### Tính năng E-commerce
 - Duyệt và tìm kiếm sản phẩm
 - Giỏ hàng và thanh toán
-- Hỗ trợ đa quốc gia và đa tiền tệ
 - Miễn phí vận chuyển cho đơn hàng trên SGD $100
 - Đăng ký newsletter với ưu đãi 10% cho đơn hàng đầu tiên
 - Quản lý tài khoản người dùng
