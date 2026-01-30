@@ -1,8 +1,8 @@
-# PRX Shop - Paper Rex Official Merchandise Store
+# Valorant - SHOP
 
 ## 📖 Giới thiệu
 
-PRX Shop là cửa hàng bán lẻ chính thức của đội Paper Rex, một phần của mạng lưới sản phẩm IMPLS Entertainment. Đây là một ứng dụng e-commerce full-stack dựa trên PRX shop để các chức năng cơ bản của một website e-commerce.
+Valorant Shop là một ứng dụng e-commerce full-stack dựa trên PRX shop để các chức năng cơ bản của một website e-commerce.
 
 **Website tham khảo:** [https://shop.pprx.team/](https://shop.pprx.team/)
 
@@ -11,7 +11,7 @@ PRX Shop là cửa hàng bán lẻ chính thức của đội Paper Rex, một p
 ## ✨ Tính năng chính
 
 ### Sản phẩm
-- **Team Kit**: Áo đấu chính thức của đội (DinoMarine, Raptor, v.v.)
+- **Team Kit**: Áo đấu chính thức của các đội thi đấu ở giải đấu chính thức của Valorant(DinoMarine, Raptor, v.v.)
 - **Collections**: 
   - PRX Seoul Mission 2025
   - PRX Basics
@@ -59,7 +59,7 @@ PRX-Shop/
 │   │   ├── main/
 │   │   │   ├── java/
 │   │   │   │   └── Khanhle/Shop/
-│   │   │   │       └── PrxShopApplication.java
+│   │   │   │       └── VlrShopApplication.java
 │   │   │   └── resources/
 │   │   │       ├── application.properties
 │   │   │       ├── static/
@@ -179,14 +179,3 @@ Dự án sử dụng Material-UI để tạo giao diện hiện đại và respo
 - Spring Security được tích hợp để xử lý authentication và authorization
 - Validation được áp dụng cho các input từ người dùng
 - CORS được cấu hình để cho phép frontend giao tiếp với backend
-
-## 📦 Sản phẩm nổi bật
-
-Dựa trên website chính thức, các sản phẩm bao gồm:
-- **PRX Official Match Jersey 2026/27 DinoMarine** - Áo đấu mới nhất
-- **PRX Official Match Jersey 2025/26 Raptor** - Áo đấu bestseller
-- **PRX Windbreaker** - Áo khoác gió
-- **PRX Zip Hoodie** (Black/Grey) - Áo hoodie có khóa kéo
-- **PRX Seoul Mission Collection** - Bộ sưu tập đặc biệt
-- **PRX Basics** - Dòng sản phẩm cơ bản
-- **PRX Accessories** - Phụ kiện (lanyard, sticker pack, card holder, plushie)
